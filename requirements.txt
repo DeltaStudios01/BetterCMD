@@ -1,0 +1,9 @@
+numpy
+pyaudio
+rich
+textual
+google-generativeai
+pillow
+requests
+pyreadline3 
+pywin32
